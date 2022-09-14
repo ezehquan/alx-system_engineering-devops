@@ -1,1 +1,1 @@
-My first commit for shell variable expansions
+My first commit
