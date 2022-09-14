@@ -1,1 +1,1 @@
-my first commit
+a script that creates an alias
